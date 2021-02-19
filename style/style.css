@@ -1,0 +1,13 @@
+body {
+  font-family: Comic Sans MS;
+  background-image: url("../        Bilder/tenor2.gif");
+}
+
+.boxType1 {
+  background-color: blue;
+  text-align: center;
+  
+  padding: 20px;
+  margin-left: 10px;
+  margin-bottom:20px;
+}
